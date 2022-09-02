@@ -1,0 +1,4 @@
+model/support/WithCode.class
+controller/MovieApi.class
+META-INF/panache-archive.marker
+model/Movie.class
